@@ -2,4 +2,4 @@ User-agent: *
 User-agent: GoogleBot
 Disallow: /
 Allow: /
-Sitemap: https://hitools.space/sitemaps/sitemap_index.xml
+Sitemap: https://kor.hitools.space/sitemaps/sitemap_index.xml
